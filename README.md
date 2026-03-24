@@ -1,4 +1,6 @@
-# Claude Code 学习笔记
+<p align="center">
+  <img src="assets/banner.svg" alt="Claude Code 学习笔记" width="100%" />
+</p>
 
 一份基于 **Net Ninja《Claude Code Tutorial》系列视频**整理的中文学习笔记。
 
